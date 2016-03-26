@@ -9,7 +9,7 @@ Adding slides:
 
 
 Copyright:
-Unless there is a license in the folder along with presentation, please contact author if you whish to use his/hers materials.
+Unless there is a license in the folder along with presentation, please contact author if you wish to use his/her materials.
 
 
 ## YouTube videos
