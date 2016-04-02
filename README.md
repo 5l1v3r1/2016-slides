@@ -17,6 +17,9 @@ presentation, please contact the author if you wish to use his/her materials.
 
 More coming soon...
 
-* [Petr Viktorin - How import works](https://www.youtube.com/watch?v=K6k6q-6XGlY)
-* [Andrea Šteňová - Basics of functional programming](https://www.youtube.com/watch?v=5m-I5m1BzLU)
-* [Miroslav Beka - Virtualenv, Flask, Vagrant, etc.](https://www.youtube.com/watch?v=snUGyOTn26g)
+* [Petr Viktorin - How import works](https://www.youtube.com/watch?v=K6k6q-6XGlY) (CZ)
+* [Andrea Šteňová - Basics of functional programming](https://www.youtube.com/watch?v=5m-I5m1BzLU) (SK)
+* [Miroslav Beka - Virtualenv, Flask, Vagrant, etc.](https://www.youtube.com/watch?v=snUGyOTn26g) (SK)
+* [Michal Kaukič - Jupyter notebook at home, in school, everywhere](https://www.youtube.com/watch?v=rbIN9-zitPc) (SK)
+* [Peter Matkovski - Python and Malware](https://www.youtube.com/watch?v=kLAhnaEaAaI) (SK)
+* [Svetlana Margetová - Django, Django REST Framework, React](https://www.youtube.com/watch?v=euJ-x9RK7PM) (SK)
