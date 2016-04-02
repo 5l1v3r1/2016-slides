@@ -1,6 +1,7 @@
 # Slides PyConSK 2016
 
 Adding slides:
+
 1. Fork this repository
 2. Add a directory with your presentation title (shortened if too long :) )
 3. Add slides to the directory
