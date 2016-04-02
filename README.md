@@ -1,4 +1,4 @@
-# Slides PyConSK 2016
+# [PyConSK 2016](https://2016.pycon.sk/en) Slides
 
 Adding slides:
 
