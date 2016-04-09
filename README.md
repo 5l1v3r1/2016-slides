@@ -9,7 +9,8 @@ Adding slides:
 5. Create Pull Request
 
 
-**Copyright:** Unless there is a LICENSE file in the folder along with the
+**Copyright:**  
+Unless there is a LICENSE file in the folder along with the
 presentation, please contact the author if you wish to use his/her materials.
 
 
@@ -23,3 +24,5 @@ More coming soon...
 * [Michal Kaukič - Jupyter notebook at home, in school, everywhere](https://www.youtube.com/watch?v=rbIN9-zitPc) (SK)
 * [Peter Matkovski - Python and Malware](https://www.youtube.com/watch?v=kLAhnaEaAaI) (SK)
 * [Svetlana Margetová - Django, Django REST Framework, React](https://www.youtube.com/watch?v=euJ-x9RK7PM) (SK)
+* [Tibor Arpáš - Mashing up py.test, coverage.py and ast.py to take TDD to a new level](https://www.youtube.com/watch?v=1mU1Zo2evNE) (SK)
+* [Jakub Ševcech - Tips and tricks for using functional features of Python](https://www.youtube.com/watch?v=1BzgBXQuzcc) (SK)
